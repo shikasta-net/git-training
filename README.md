@@ -8,3 +8,7 @@ Thank you for providing a working example.
 
     npm install
     npm start
+
+### Reference
+
+- [`git bisect` docs](https://git-scm.com/docs/git-bisect)
