@@ -1,11 +1,6 @@
 # Git workshop material
 
-Welcome to the workshop.  I will write this as a continuation of https://learngitbranching.js.org/, to introduce the following content manipulation concepts.
-- Message contents, format, care
-- Partial staging
-- commit --amend
-- commit --fixup
-- reset --mixed
-- biesct
+## Bisect Example
+Adapted from EvanLovely/git-bisect-example (on GitHub), in case that repo should vanish.
+Thank you for providing a working example.
 
-And the reflog
